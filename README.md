@@ -23,7 +23,8 @@
   ## About Me
 
    Hey, I'm Dominic Cashiola, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
-    I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
+   
+   I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
 
   <br>
   
