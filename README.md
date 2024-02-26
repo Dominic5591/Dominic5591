@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="[https://shaunjhingoor.github.io/Portfolio/](https://portfolio-rho-beige-98.vercel.app/)" target="_blank">
+  <a href="https://portfolio-o9ewroy23-dominics-projects-08ef365d.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
    alt="Portfolio"/>
   </a>
@@ -18,12 +18,12 @@
 </p>
 
 
-<div>
+<div align="center">
 
   ## About Me
 
-  - Hey, I'm Dominic Cashiola, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
-  -  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
+   Hey, I'm Dominic Cashiola, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
+    I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
 
   <br>
   
