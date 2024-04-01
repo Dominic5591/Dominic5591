@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="https://portfolio-o9ewroy23-dominics-projects-08ef365d.vercel.app/" target="_blank">
+  <a href="https://portfolio-rho-beige-98.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
    alt="Portfolio"/>
   </a>
